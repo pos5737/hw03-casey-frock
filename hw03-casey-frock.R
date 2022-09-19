@@ -41,3 +41,6 @@ summary(elec_5)
 #save files
 write_csv(elec_5, "data/elec_data.csv")
 write_rds(elec_5, "data/elec_data.rds")
+
+#save plot
+ggsave("docs/figs/election_plot.pdf", height = 5, width = 8)
