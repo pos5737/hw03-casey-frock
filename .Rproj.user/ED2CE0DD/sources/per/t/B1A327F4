@@ -1,27 +1,27 @@
 {
-    "id": "9DBCA1E5",
-    "path": "C:/Users/casey/OneDrive/Desktop/5737 Carlisle/Week 3/hw03/data/raw/hw03/hw03.R",
-    "project_path": "hw03.R",
+    "id": "B1A327F4",
+    "path": "C:/Users/casey/OneDrive/Desktop/5737 Carlisle/Week 3/hw03-casey-frock/hw03-casey-frock.R",
+    "project_path": "hw03-casey-frock.R",
     "type": "r_source",
-    "hash": "4256111605",
+    "hash": "2737013548",
     "contents": "",
     "dirty": false,
-    "created": 1663435468130.0,
+    "created": 1663509389855.0,
     "source_on_save": false,
     "relative_order": 1,
     "properties": {
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "3,29",
-        "scrollLine": "0"
+        "cursorPosition": "43,0",
+        "scrollLine": "29"
     },
     "folds": "",
-    "lastKnownWriteTime": 1663435720,
+    "lastKnownWriteTime": 1663511932,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1663435720125,
+    "last_content_update": 1663511932384,
     "read_only": false,
     "read_only_alternatives": []
 }
